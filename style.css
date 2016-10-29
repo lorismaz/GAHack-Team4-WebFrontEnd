@@ -1,0 +1,28 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #6b6767;
+}
+
+.jumbotron {
+  background-color: transparent;
+  color: black;
+  /*background-color: rgba{0,0,0,.2};*/
+
+}
+
+.thumbnail {
+  /*width: 100%;
+  max-height: 250px;*/
+
+}
+
+.footer {
+  background-color: #333;
+}
+
+
+.bgimg {
+  background-image: url('tree.png');
+  background-repeat: none;
+  background-size: cover;
+}
